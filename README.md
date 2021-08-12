@@ -1,4 +1,4 @@
-<h2>Projeto Final - Curso de Introdução ao UX Writing </h2>
+<h2>Projeto Final - Curso de Introdução ao UX Writing 📓📝</h2>
 
 Em junho concluí o curso de Introdução ao UX Writing da Domestika, ministrado pelo Mario Ferrer. 
 
