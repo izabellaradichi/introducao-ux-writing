@@ -8,7 +8,7 @@ Para essa criação, levei em consideração um hobby que tenho já há algum te
 
 Dei o nome de "PI - Fotografia e Audiovisual" :)
 
-Como foram várias propostas, escolhi algumas para ^subir aqui no GitHub:
+Como foram várias propostas, escolhi algumas para subir aqui no GitHub:
 
 - Criação de um alerta do app/site;
 - Conversa no chat da empresa;
